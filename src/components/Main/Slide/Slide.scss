@@ -1,0 +1,17 @@
+.slide {
+    &__image {
+        height: calc(100vh - 40vh);
+       background-color: #777;
+        img {
+            width: auto;
+            height: 100%;
+            object-fit: cover;
+        }
+    }
+}
+span {
+    display: block;
+    font-size: 14px;
+    font-style: italic;
+    padding: 10px 10px 0 0;
+}

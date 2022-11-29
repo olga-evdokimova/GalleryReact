@@ -1,0 +1,49 @@
+.header {
+	position: fixed;
+	top: 0;
+	height: calc(100vh - 2vh);
+	
+	width: 200px;
+	padding: 0 14px;
+	left: 50px;
+	background-color: #fff;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	&__inner {
+		  height: 60vh;
+		
+	}
+	&__title {
+		font-size:15px;
+		color: #101010;
+		font-weight: bold;
+		padding-bottom: 30px;
+	}
+}
+.nav {
+	&__list {
+		li {
+			text-transform: uppercase;
+			padding-bottom: 10px;
+			font-size: 12px;
+		}
+	}
+}
+.cocial {
+	&__insta {
+		padding: 5px  5px 5px 0;
+	}
+	&__telegram {
+			padding: 5px ;
+	}
+}
+.footer {
+	font-size:11px;
+	padding: 20px 0;
+}
+svg {
+	width: 15px;
+	height: 15px;
+}

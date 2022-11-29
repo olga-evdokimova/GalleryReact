@@ -1,0 +1,13 @@
+.gallery {
+    &__wrapper {
+        padding-left: 250px;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        // flex-wrap: nowrap;
+        // overflow: auto;
+       overflow-x: scroll;
+      width: 100vw;
+    }
+}
