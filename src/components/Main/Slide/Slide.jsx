@@ -1,8 +1,8 @@
 import m from "./Slide.scss";
 
 const Slide = (props) => {
-  const slides = ["Первое", "Второе", "Третье"];
-  const listItems = slides.map((slide) => <li>{slide}</li>);
+  const names = ["Первое", "Второе", "Третье"];
+  const listItems = names.map((name) => <li>{name}</li>);
   
   return (
     <div className="slide">
