@@ -7,7 +7,7 @@ const Slide = (props) => {
   return (
     <div className="slide">
       <div className="slide__image">
-        <img src={props.url} alt={props.name} />
+        <img src="" alt="" />
       </div>
       <span>{listItems}</span>
     </div>
