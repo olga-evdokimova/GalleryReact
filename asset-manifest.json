@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.20fbebca.css",
-    "main.js": "/static/js/main.9d2f5369.js",
-    "static/js/787.17e28425.chunk.js": "/static/js/787.17e28425.chunk.js",
-    "static/media/image-03.jpg": "/static/media/image-03.a7942badd76b7b28b832.jpg",
-    "static/media/image-06.jpg": "/static/media/image-06.74eb1e7b72b2f331047c.jpg",
-    "static/media/image-08.jpg": "/static/media/image-08.9db0fd916c7931437a55.jpg",
-    "static/media/image-01.jpg": "/static/media/image-01.232c2b92826cfeb3a120.jpg",
-    "static/media/image-02.jpg": "/static/media/image-02.ba29e95ef7d532cdc0b3.jpg",
-    "static/media/image-04.jpg": "/static/media/image-04.a9f36b2347341708651c.jpg",
-    "static/media/image-07.jpg": "/static/media/image-07.4955977e2453d98859cc.jpg",
-    "static/media/image-05.jpg": "/static/media/image-05.07a5202ef9afae8b6d6c.jpg",
-    "index.html": "/index.html",
-    "main.20fbebca.css.map": "/static/css/main.20fbebca.css.map",
-    "main.9d2f5369.js.map": "/static/js/main.9d2f5369.js.map",
-    "787.17e28425.chunk.js.map": "/static/js/787.17e28425.chunk.js.map"
+    "main.css": "/GalleryReact/static/css/main.20fbebca.css",
+    "main.js": "/GalleryReact/static/js/main.08634e6a.js",
+    "static/js/787.17e28425.chunk.js": "/GalleryReact/static/js/787.17e28425.chunk.js",
+    "static/media/image-03.jpg": "/GalleryReact/static/media/image-03.a7942badd76b7b28b832.jpg",
+    "static/media/image-06.jpg": "/GalleryReact/static/media/image-06.74eb1e7b72b2f331047c.jpg",
+    "static/media/image-08.jpg": "/GalleryReact/static/media/image-08.9db0fd916c7931437a55.jpg",
+    "static/media/image-01.jpg": "/GalleryReact/static/media/image-01.232c2b92826cfeb3a120.jpg",
+    "static/media/image-02.jpg": "/GalleryReact/static/media/image-02.ba29e95ef7d532cdc0b3.jpg",
+    "static/media/image-04.jpg": "/GalleryReact/static/media/image-04.a9f36b2347341708651c.jpg",
+    "static/media/image-07.jpg": "/GalleryReact/static/media/image-07.4955977e2453d98859cc.jpg",
+    "static/media/image-05.jpg": "/GalleryReact/static/media/image-05.07a5202ef9afae8b6d6c.jpg",
+    "index.html": "/GalleryReact/index.html",
+    "main.20fbebca.css.map": "/GalleryReact/static/css/main.20fbebca.css.map",
+    "main.08634e6a.js.map": "/GalleryReact/static/js/main.08634e6a.js.map",
+    "787.17e28425.chunk.js.map": "/GalleryReact/static/js/787.17e28425.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.20fbebca.css",
-    "static/js/main.9d2f5369.js"
+    "static/js/main.08634e6a.js"
   ]
 }
