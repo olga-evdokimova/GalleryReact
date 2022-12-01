@@ -1,15 +1,12 @@
-import m from "./Slide.scss";
+import "./Slide.scss";
 
 const Slide = (props) => {
-  const names = ["Первое", "Второе", "Третье"];
-  const listItems = names.map((name) => <li>{name}</li>);
-  
-  return (
+   return (
     <div className="slide">
       <div className="slide__image">
-        <img src="" alt="" />
+        <img src={props.img} alt={props.title} />
       </div>
-      <span>{listItems}</span>
+       <span>{props.title}</span>
     </div>
   );
 };

@@ -1,12 +1,10 @@
-import m from "./Main.scss";
+import "./Main.scss";
 import Slide from "./Slide/Slide";
 import { useRef, useState } from "react";
+import { slideList } from "./Slide/slideList";
 
 const Main = () => {
   const divRef = useRef();
-    const [isDown, setDown] = useState(false);
- 
-
   return (
     <main className="page">
       <div className="gallery">
@@ -20,30 +18,20 @@ const Main = () => {
             const newScroll = div.scrollLeft + wheel / 5;
             div.scrollLeft = newScroll;
           }}
-          onMouseDown={(item) => {
-            console.log("down!");
-            // setDown(true) // down = true
-          }}
-          onMouseMove={(item) => {
-            console.log("move!");
-          }}
         >
-          <Slide />
-          <Slide />
-          <Slide />
+          {slideList.map((slide) => {
+            return (
+              <Slide
+                key={slide.id}
+                title={slide.title}
+                img={slide.img}
+                id={slide.id}
+              />
+            );
+          })}
         </div>
       </div>
     </main>
   );
 };
 export default Main;
-
-
-//  <Slide name="Название" url="https://i.ibb.co/2hWjYx1/image-01.jpg"/>
-//  <Slide name="Какое-то фото" url="https://i.ibb.co/wznpmzy/image-02.jpg"/>
-//  <Slide name="Еще название" url="https://i.ibb.co/kHXr21y/image-03.jpg"/>
-//  <Slide name="Название" url=" https://i.ibb.co/zFPFs16/image-04.jpg"/>
-//  <Slide name="Какое-то фото" url="https://i.ibb.co/CBSMK27/image-05.jpg"/>
-//  <Slide name="Еще название" url="https://i.ibb.co/JxYjps3/image-06.jpg"/>
-//  <Slide name="Еще название" url="https://i.ibb.co/8BrghxK/image-07.jpg"/>
-//  <Slide name="Название" url="https://i.ibb.co/0fQKwz3/image-08.jpg"/>
