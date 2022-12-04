@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/GalleryReact/static/css/main.20fbebca.css",
-    "main.js": "/GalleryReact/static/js/main.08634e6a.js",
+    "main.js": "/GalleryReact/static/js/main.94b55fd2.js",
     "static/js/787.17e28425.chunk.js": "/GalleryReact/static/js/787.17e28425.chunk.js",
-    "static/media/image-03.jpg": "/GalleryReact/static/media/image-03.a7942badd76b7b28b832.jpg",
-    "static/media/image-06.jpg": "/GalleryReact/static/media/image-06.74eb1e7b72b2f331047c.jpg",
-    "static/media/image-08.jpg": "/GalleryReact/static/media/image-08.9db0fd916c7931437a55.jpg",
-    "static/media/image-01.jpg": "/GalleryReact/static/media/image-01.232c2b92826cfeb3a120.jpg",
-    "static/media/image-02.jpg": "/GalleryReact/static/media/image-02.ba29e95ef7d532cdc0b3.jpg",
-    "static/media/image-04.jpg": "/GalleryReact/static/media/image-04.a9f36b2347341708651c.jpg",
-    "static/media/image-07.jpg": "/GalleryReact/static/media/image-07.4955977e2453d98859cc.jpg",
-    "static/media/image-05.jpg": "/GalleryReact/static/media/image-05.07a5202ef9afae8b6d6c.jpg",
+    "static/media/image-03.jpg": "/GalleryReact/static/media/image-03.ebe83b0cde5cad1640c8.jpg",
+    "static/media/image-06.jpg": "/GalleryReact/static/media/image-06.6815fc1f96e84106e659.jpg",
+    "static/media/image-01.jpg": "/GalleryReact/static/media/image-01.071ee36d56c580f49ebe.jpg",
+    "static/media/image-08.jpg": "/GalleryReact/static/media/image-08.c6f0cd921c2873241102.jpg",
+    "static/media/image-02.jpg": "/GalleryReact/static/media/image-02.1627a49ea966270ff5d0.jpg",
+    "static/media/image-05.jpg": "/GalleryReact/static/media/image-05.5234f8422440a296a091.jpg",
+    "static/media/image-07.jpg": "/GalleryReact/static/media/image-07.25f75da2f06cdcde9685.jpg",
+    "static/media/image-04.jpg": "/GalleryReact/static/media/image-04.f5048f880b561516dcf6.jpg",
     "index.html": "/GalleryReact/index.html",
     "main.20fbebca.css.map": "/GalleryReact/static/css/main.20fbebca.css.map",
-    "main.08634e6a.js.map": "/GalleryReact/static/js/main.08634e6a.js.map",
+    "main.94b55fd2.js.map": "/GalleryReact/static/js/main.94b55fd2.js.map",
     "787.17e28425.chunk.js.map": "/GalleryReact/static/js/787.17e28425.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.20fbebca.css",
-    "static/js/main.08634e6a.js"
+    "static/js/main.94b55fd2.js"
   ]
 }
